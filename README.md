@@ -1,1 +1,1 @@
-Repo of Algorithms&Datastructed for coursera course
+Repo of Algorithms&Datastructures for coursera course
