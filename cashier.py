@@ -6,7 +6,6 @@ def cashier(n):
 	for i in range(len(coins)):
 		change[str(coins[i])] = int(n/coins[i])
 		n -= int(n/coins[i])*coins[i]
-		print(n)
 	return change
 
 if __name__ == "__main__":
